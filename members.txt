@@ -2,4 +2,4 @@ Nguyễn Lê Bảo Thịnh - GCS250192 (Project Management)
 Nguyễn Hải Triều - GCS250258 (Business Analyst)
 Hoàng Nguyên Bình - GCS250207 (Lead Development)
 Trần Đình Bảo Duy - GCS250349 (QA/Tester)
-Tống Mặc Khải - GCS250
+Tống Mặc Khải - GCS250240 (QA/Tester)
