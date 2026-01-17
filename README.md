@@ -16,7 +16,7 @@
 ---
 
 ## Table of contents
-- [OnlyTrade - [Internal Point System Exchange Platform](#onlytrade---internal-point-system-exchange-platform)
+- [OnlyTrade] - [Internal Point System Exchange Platform](#onlytrade---internal-point-system-exchange-platform)
 - [Introduction](#introduction)
   - [Project Objectives](#project-objectives)
   - [Problem that the project solves](#problem-that-the-project-solves)
