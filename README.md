@@ -10,17 +10,16 @@
 ---
 
 ## Introduction:
-**Mục tiêu dự án:** OnlyTrade giúp người dùng “giải phóng” các món đồ không còn sử dụng bằng cách chuyển chúng thành điểm nội bộ, từ đó có thể dùng điểm để lấy các món đồ khác trên sàn mà không cần dùng tiền mặt.
+**Project Goal:** OnlyTrade helps users "get rid of" unused items by converting them into internal points, which can then be used to redeem other items on the platform without using cash.
 
-**Vấn đề mà dự án giải quyết:** Ứng dụng hướng tới giải quyết thực trạng lãng phí đồ dùng cá nhân còn tốt nhưng bị bỏ xó – một vấn đề lớn trong xã hội hiện đại, nhất là tại các nước đang phát triển.
-
+**Problem addressed by the project:** The application aims to address the wasteful use of perfectly good personal items that are left unused – a major problem in modern society, especially in developing countries.
 ---
 
 ## Table of contents
-- [OnlyTrade - Nền tảng trao đổi đồ dùng qua hệ thống point nội bộ](#onlytrade---nền-tảng-trao-đổi-đồ-dùng-qua-hệ-thống-point-nội-bộ)
+- [OnlyTrade - [Internal Point System Exchange Platform](#onlytrade---internal-point-system-exchange-platform)
 - [Introduction](#introduction)
-  - [Mục tiêu dự án](#mục-tiêu-dự-án)
-  - [Vấn đề mà dự án giải quyết](#vấn-đề-mà-dự-án-giải-quyết)
+  - [Project Objectives](#project-objectives)
+  - [Problem that the project solves](#problem-that-the-project-solves)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Repository Structure](#repository-structure)
@@ -32,22 +31,22 @@
 ---
 
 ## Installation:
-**B1:** Cài đặt app từ các nguồn.  
+**B1:** Install apps from sources..  
 - Google Play (Android)  
 - App Store (iOS)  
-- Website / file cài đặt nội bộ (nếu có)
+- Website / internal installation file (if any)
 
-**B2:** Đăng ký hoặc truy cập bằng các tài khoản:
+**B2:** Register or access using these accounts:
 - Facebook  
 - Google  
-- Số điện thoại (OTP)
+- Phone number (OTP)
 
-**B3:** Sẽ có một bản hướng dẫn sử dụng giao diện cho người dùng (onboarding) để làm quen nhanh với các chức năng chính.
+**B3:** There will be an onboarding user interface guide to help users quickly familiarize themselves with the main functions.
 
 ---
 
 ## Usage:
-Người dùng ứng dụng sau khi đã đăng nhập thì sẽ được up món đồ của mình muốn trao đổi lên app theo hướng dẫn và yêu cầu của app, món đồ đó sẽ được đi qua một hệ thống định giá của app (hệ thống đó phải đảm bảo 100% tính minh bạch và công bằng, có thể có sự bảo hộ của các bộ máy lớn như nhà nước), sau khi món đồ của người dùng đã đi qua hệ thống định giá đó thì người dùng sẽ được trả một số lượng point nội bộ tương ứng với giá trị của món đồ đó, sau đó người dùng có thể dùng point vừa được trả để mua trực tiếp các món đồ có trên sàn miễn là họ có đủ số lượng point cần thiết để trao đổi và quy trình đó cứ tiếp diễn tiếp diễn như cách một nền kinh tế bằng tiền thật vận hành.
+After logging in, users upload items they wish to trade to the app according to the app's instructions and requirements. The item then goes through the app's valuation system (this system must ensure 100% transparency and fairness, and may be protected by major agencies such as the government). After the item has passed the valuation system, the user receives a corresponding number of internal points based on the item's value. The user can then use these points to directly purchase items on the platform, provided they have enough points to complete the trade. This process continues, much like a real-world economy.
 
 ---
 
