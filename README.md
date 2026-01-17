@@ -53,14 +53,14 @@ After logging in, users upload items they wish to trade to the app according to 
 ## Repository Structure:
 ```txt
 OnlyTrade/
-├─ docs/                     # Tài liệu dự án (đặc tả, flow, wireframe...)
-├─ src/                      # Source code chính
-│  ├─ screens/               # Màn hình chính của ứng dụng
-│  ├─ components/            # Các component UI tái sử dụng
-│  ├─ services/              # Xử lý API, auth, storage
-│  ├─ modules/               # Các module: Trade, Point, Valuation...
-│  ├─ utils/                 # Hàm hỗ trợ
-│  └─ assets/                # Hình ảnh, icons, fonts
+├─ docs/                     # Project documentation (specifications, flows, wireframes,...)
+├─ src/                      # Main code
+│  ├─ screens/               # The app's home screen
+│  ├─ components/            # Reusable UI components
+│  ├─ services/              # Handling API, authentication, and storage.
+│  ├─ modules/               # Modules: Trade, Point, Valuation...
+│  ├─ utils/                 # Support functions
+│  └─ assets/                # Images, icons, fonts
 ├─ tests/                    # Unit/Integration tests
-├─ README.md                 # File hướng dẫn dự án
-└─ LICENSE                   # Bản quyền
+├─ README.md                 # Project guide file
+└─ LICENSE                   # Copyright
